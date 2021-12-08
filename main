@@ -1,4 +1,4 @@
-mport core
+import core
 
 def setup():
     print("setup START______")
